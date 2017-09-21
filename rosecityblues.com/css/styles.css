@@ -1,0 +1,27 @@
+body {
+  background-color: #704214;
+  color: #C0C0C0;
+  text-align: center;
+  font-family: Yesteryear;
+}
+
+h1, h2, h3 {
+  font-family: Yesteryear;
+}
+
+ul, li {
+  text-align: left;
+  font-size: 50px;
+}
+
+ul {
+  margin-left: 30%;
+}
+
+.main-title {
+  font-size: 70px;
+}
+
+.tagline {
+  font-size: 50px;
+}
